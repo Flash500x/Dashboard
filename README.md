@@ -1,38 +1,22 @@
-# sv
+# Dashboard
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+This is a web-based **Dashboard** project hosted on GitHub. The project is actively under development, with the frontend of the dashboard almost complete.
 
-## Creating a project
+## Project Status
 
-If you're seeing this, you've probably already done this step. Congrats!
+- **Frontend:** Nearly complete and functional.
+- **Backend / API integration:** Work in progress.
+- **Features:** Core layout, navigation, and basic widgets implemented.
 
-```sh
-# create a new project in the current directory
-npx sv create
+## Features (Planned / Partial)
 
-# create a new project in my-app
-npx sv create my-app
-```
+- Responsive dashboard layout
+- Interactive widgets and charts
+- User authentication (planned)
+- API integration for dynamic data
 
-## Developing
+## Installation
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```sh
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+1. Clone the repository:
+```bash
+git clone https://github.com/Flash500x/Dashboard.git
